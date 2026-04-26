@@ -1,7 +1,15 @@
+# Local pipelines
+build_installer.iss
+build.ps1
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyc
+
+# Inno Setup output
+dist_installer/
 
 # C extensions
 *.so

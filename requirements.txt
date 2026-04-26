@@ -1,0 +1,7 @@
+winrt-runtime
+winrt-Windows.Devices.Sensors
+pystray
+Pillow
+customtkinter
+pywin32
+vgamepad
