@@ -1,5 +1,7 @@
 ![Latest Downloads](https://img.shields.io/github/downloads/Halim1410/gyropuppet/latest/total?style=for-the-badge&color=39FF14)
 
+### [📥 Download GyroPuppet Setup](https://github.com/Halim1410/gyropuppet/releases/latest/download/GyroPuppet_v0.1_Setup.exe)
+
 # <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
 
 Unlock native-grade motion controls on the MSI Claw, Legion Go, and other Windows handhelds. Featuring a retro-styled diagnostic UI, DSU server integration, and zero-dependency hardware injection for a seamless gaming experience.
