@@ -37,20 +37,20 @@ Say goodbye to clunky thumbstick aiming in your favorite Action-Platformers and 
 
 ---
 
-## 🕹️ Emulator Setup: Eden & Ryujinx
+## 🕹️ Emulator Setup
 
 GyroPuppet acts as a native DSU (Cemuhook) server, making it the "gold standard" for feeding motion data directly into emulators without messy third-party plugins.
 
-*(Insert a screenshot here showing the Eden Emulator's controller settings menu side-by-side with GyroPuppet. Draw an arrow showing the IP/Port matching between the two apps)*
-![Eden Emulator Setup](assets/readme/eden_setup.png)
+*(Insert a screenshot here showing the Emulator's controller settings menu side-by-side with GyroPuppet. Draw an arrow showing the IP/Port matching between the two apps)*
+![Emulator Setup](assets/readme/eden_setup.png)
 
-**How to connect to Eden:**
+**How to connect to Emulators:**
 1. Open **GyroPuppet** and ensure `Enable DSU Server` is **ON**.
 2. Note your IP and Port (Usually `127.0.0.1` and `26760`).
-3. Open **Eden Emulator** and navigate to the Controller/Input Settings.
+3. Open **Emulator** and navigate to the Controller/Input Settings.
 4. Look for the "Motion" or "DSU Server" section.
 5. Enter the matching IP and Port.
-6. Shake your Claw—if Eden shows motion activity, you are ready to play!
+6. Shake your Claw—if Emulator shows motion activity, you are ready to play!
 
 ---
 
