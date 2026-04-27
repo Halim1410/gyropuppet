@@ -1,5 +1,3 @@
-![Latest Downloads](https://img.shields.io/github/downloads/Halim1410/gyropuppet/latest/total?style=for-the-badge&color=39FF14)
-
 # <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
 
 ### [📥 Download GyroPuppet Setup](https://github.com/Halim1410/gyropuppet/releases/latest/download/GyroPuppet_v0.1_Setup.exe)
