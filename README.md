@@ -1,4 +1,4 @@
-![Latest Downloads](https://img.shields.io/github/downloads/Halim1410/gyropuppet/latest/total?style=for-the-badge&color=39FF14)
+![Downloads](https://img.shields.io/github/downloads/Halim1410/gyropuppet/latest/total?style=for-the-badge&color=39FF14)
 
 # <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
 
