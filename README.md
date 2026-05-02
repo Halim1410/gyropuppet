@@ -2,6 +2,8 @@
 
 # <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
 
+### [📥 Download GyroPuppet Setup](https://github.com/Halim1410/gyropuppet/releases/latest/download/GyroPuppet_Setup.exe)
+
 Unlock native-grade motion controls on the MSI Claw, Legion Go, and other Windows handhelds. Featuring a retro-styled diagnostic UI, DSU server integration, and zero-dependency hardware injection for a seamless gaming experience.
 
 GyroPuppet is a high-performance, low-latency motion control bridge for Windows handheld gaming PCs. It translates your device's internal gyrometer data into precise Mouse emulation, Xbox Right Stick input, or standard DSU server data for seamless emulator integration.
