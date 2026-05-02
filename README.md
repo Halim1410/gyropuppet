@@ -1,6 +1,6 @@
-# <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
+![GitHub All Releases](https://img.shields.io/github/downloads/Halim1410/gyropuppet/total?style=for-the-badge&color=39FF14)
 
-### [📥 Download GyroPuppet Setup](https://github.com/Halim1410/gyropuppet/releases/latest/download/GyroPuppet_v0.1_Setup.exe)
+# <img src="assets/images/Logo-POPART.png" width="40" align="top" /> GyroPuppet
 
 Unlock native-grade motion controls on the MSI Claw, Legion Go, and other Windows handhelds. Featuring a retro-styled diagnostic UI, DSU server integration, and zero-dependency hardware injection for a seamless gaming experience.
 
@@ -37,20 +37,20 @@ Say goodbye to clunky thumbstick aiming in your favorite Action-Platformers and 
 
 ---
 
-## 🕹️ Emulator Setup
+## 🕹️ Emulator Setup: Eden & Ryujinx
 
 GyroPuppet acts as a native DSU (Cemuhook) server, making it the "gold standard" for feeding motion data directly into emulators without messy third-party plugins.
 
-*(Insert a screenshot here showing the Emulator's controller settings menu side-by-side with GyroPuppet. Draw an arrow showing the IP/Port matching between the two apps)*
-![Emulator Setup](assets/readme/eden_setup.png)
+*(Insert a screenshot here showing the Eden Emulator's controller settings menu side-by-side with GyroPuppet. Draw an arrow showing the IP/Port matching between the two apps)*
+![Eden Emulator Setup](assets/readme/eden_setup.png)
 
-**How to connect to Emulators:**
+**How to connect to Eden:**
 1. Open **GyroPuppet** and ensure `Enable DSU Server` is **ON**.
 2. Note your IP and Port (Usually `127.0.0.1` and `26760`).
-3. Open **Emulator** and navigate to the Controller/Input Settings.
+3. Open **Eden Emulator** and navigate to the Controller/Input Settings.
 4. Look for the "Motion" or "DSU Server" section.
 5. Enter the matching IP and Port.
-6. Shake your Claw—if Emulator shows motion activity, you are ready to play!
+6. Shake your Claw—if Eden shows motion activity, you are ready to play!
 
 ---
 
